@@ -35,7 +35,7 @@ public class Alejandro_TNP {
 				//If it is weekends
 					if(day_call_was_made == 6)
 					{
-						System.out.println("The bill for " + duration_call + " minutes of call on hour " + time_call_was_made + " of Day " + day_call_was_made + "of the week is " + (duration_call*weekend_and_nonbusy_rate) + " pesos.");
+						System.out.println("The bill for " + duration_call + " minutes of call on hour " + time_call_was_made + " of Day " + day_call_was_made + " of the week is " + (duration_call*weekend_and_nonbusy_rate) + " pesos.");
 					}
 				//Else = weekdays
 					else
