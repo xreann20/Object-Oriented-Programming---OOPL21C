@@ -9,7 +9,7 @@ public class Alejandro_2dDiagonal {
 		int array_2d[][]= {{1,2,3,4,5},{6,7,8,9,10},{11,12,13,14,15},{16,17,18,19,20},{21,22,23,24,25}};
 		System.out.println("Assuming the matrix is like this:");
 		System.out.println("1\t2\t3\t4\t5\n6\t7\t8\t9\t10\n11\t12\t13\t14\t15\n16\t17\t18\t19\t20\n21\t22\t23\t24\t25");
-		System.out.println("\nThe main diaganol would be :");
+		System.out.println("\nThe main diagonal would be :");
 		//Call Method
 		diagonalsOnArray(array_2d);
 	}
